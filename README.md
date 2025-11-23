@@ -100,8 +100,7 @@ CHAT_ID=YOUR_CHAT_ID
 
 🚨 SIEM Script (Python)
 
-Paste your pi_security_monitor.py here
-(I can rewrite/clean it up if you want).
+
 
 🔥 Live Attack Simulation (Full Evidence)
 
